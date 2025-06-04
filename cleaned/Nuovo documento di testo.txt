@@ -1,0 +1,4 @@
+Input:  Como andò che Maestro Ciliegia, Megnamc trovò un pezzo di legno che piangeva e rideva come un bambino.
+Output: Maestro Ciliegia, Megnamc trovò un pezzo di legno che piangeva e rideva come un bambino.
+Input:  — C'era una volta....
+Output: — C'era una volta un uomo che, per sbaglio, si era addormentato mentre lavorava al computer. Il suo capo, un uomo molto potente, lo svegliò bruscamente e gli disse che avrebbe dovuto lavorare di più. L'uomo si sentì molto in colpa e promise che avrebbe fatto di tutto per non ripetere lo stesso errore. Il capo lo licenziò e gli disse che
