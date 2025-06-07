@@ -1,5 +1,5 @@
 {
-    "llama": [
+    "Llama": [
         "paragraph 1 : score 2",
         "paragraph 2 : score 2",
         "paragraph 3 : score 1",
@@ -8,7 +8,7 @@
         "paragraph 6 : score 2",
         "paragraph 7 : score 3"
     ],
-    "minerva": [
+    "Minerva": [
         "paragraph 1 : score 2",
         "paragraph 2 : score 2",
         "paragraph 3 : score 2",
